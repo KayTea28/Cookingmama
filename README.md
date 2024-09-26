@@ -23,4 +23,12 @@ The Cooking Mama website offers:
 - Cooking tips and techniques for both beginners and experienced chefs.
 - A visually appealing layout for easy navigation through different sections of the site.
 
+## Contributing (for members)
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Make your changes and commit them (`git commit -m "Add new feature"`).
+4. Push to the branch (`git push origin feature/new-feature`).
+5. Open a Pull Request to the `main` branch.
+
+
 *As part of our project, the website is still in its early stages, further improvement and expansion on our collection of recipes will be done in the near future!
