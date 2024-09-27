@@ -1,17 +1,23 @@
-Installation
+##Cooking Mama
+Project Purpose
+Cookingmama repository contains all the assets and resources for the Cooking Mama website/mobile apps/ user manual, providing users with a platform for exploring delicious recipes and cooking tips.
+
+##Installation
 To install and run the project locally:
 
-Clone the repository:
+##Clone the repository:
 git clone https://github.com/yourusername/Cookingmama.git
-Navigate to the project directory:
+
+##Navigate to the project directory:
 cd Cookingmama
-Contributing (For members)
+
+##Contributing (For members)
 Fork the repository.
 Create a new branch (git checkout -b feature/new-feature).
 Make your changes and commit them (git commit -m "addcomments").
 Push to the branch (git push origin feature/new-feature).
 Open a Pull Request to the main branch.
-Project Overview
+
 The Cooking Mama website offers:
 
 A collection of recipes for various cuisines.
